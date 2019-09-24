@@ -1,0 +1,8 @@
+E:\TUTORIAS CÍCERO\wcf restfull e mysql\fontes\ServicoRest\ServicoRest\bin\ServicoRest.dll.config
+E:\TUTORIAS CÍCERO\wcf restfull e mysql\fontes\ServicoRest\ServicoRest\bin\ServicoRest.dll
+E:\TUTORIAS CÍCERO\wcf restfull e mysql\fontes\ServicoRest\ServicoRest\bin\ServicoRest.pdb
+E:\TUTORIAS CÍCERO\wcf restfull e mysql\fontes\ServicoRest\ServicoRest\obj\Debug\ServicoRest.csprojResolveAssemblyReference.cache
+E:\TUTORIAS CÍCERO\wcf restfull e mysql\fontes\ServicoRest\ServicoRest\obj\Debug\ServicoRest.dll
+E:\TUTORIAS CÍCERO\wcf restfull e mysql\fontes\ServicoRest\ServicoRest\obj\Debug\ServicoRest.pdb
+E:\TUTORIAS CÍCERO\wcf restfull e mysql\fontes\ServicoRest\ServicoRest\bin\EntityFramework.dll
+E:\TUTORIAS CÍCERO\wcf restfull e mysql\fontes\ServicoRest\ServicoRest\bin\EntityFramework.xml
